@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { BaseModal } from "../../BaseComponents";
 import { useToastStore } from "../../../stores/toast";
 import type { ReviewRejectModalProps } from "./type";

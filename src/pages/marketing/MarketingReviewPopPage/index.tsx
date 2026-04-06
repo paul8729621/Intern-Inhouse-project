@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import { useCallback, useState } from "react";
 import PageView from "./view";
 import useMarketingReviewPopService, { getCampaignById } from "./service";
 import MarketingReviewPopModal from "../../../components/Modal/MarketingReviewPopModal";

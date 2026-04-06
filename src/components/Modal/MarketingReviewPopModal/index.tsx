@@ -1,4 +1,3 @@
-import React from "react";
 import { BaseModal } from "../../BaseComponents";
 import RecruitView from "./recruit/view";
 import VisitView from "./visit/view";

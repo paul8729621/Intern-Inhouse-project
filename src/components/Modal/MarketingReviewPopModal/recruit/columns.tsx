@@ -1,4 +1,3 @@
-import React from "react";
 import type { Applicant } from "../type";
 
 type CellInfo<T> = { getValue: () => T; row: { original: Applicant } };

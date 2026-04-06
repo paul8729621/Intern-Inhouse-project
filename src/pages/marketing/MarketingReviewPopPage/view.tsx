@@ -1,4 +1,3 @@
-import React from "react";
 import MarketingReviewPopList from "./MarketingReviewPopList";
 import type { IMarketingReviewPopViewProps } from "./type";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import ReviewRejectDetailPopModalView from "./view";
 import type { ReviewRejectDetailPopModalProps } from "./type";
 

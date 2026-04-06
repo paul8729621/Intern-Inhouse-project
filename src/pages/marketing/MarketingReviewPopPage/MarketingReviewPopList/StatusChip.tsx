@@ -1,4 +1,3 @@
-import React from "react";
 import type { MarketingStatus } from "../../../../components/Modal/MarketingReviewPopModal/type";
 
 const STATUS_STYLE_MAP: Record<MarketingStatus, { color: string; background: string }> = {

@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { BaseTable, BaseButton, BaseListHeader, Pagination } from "../../../../components/BaseComponents";
 import Filter from "../../../../components/Filter";
 import type { IMarketingReviewPopViewProps, ISearchParams } from "../type";

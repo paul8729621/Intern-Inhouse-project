@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import { BaseTable } from "../../../BaseComponents";
 import Filter from "../../../Filter";
 import ModalToastContainer from "../../../Toast/ModalToastContainer";

@@ -1,4 +1,3 @@
-import React from "react";
 import { BaseModal } from "../../BaseComponents";
 import type { ReviewRejectDetailPopModalProps } from "./type";
 import styles from "./style.module.scss";

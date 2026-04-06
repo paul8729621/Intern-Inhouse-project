@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import { BaseTable } from "../../../BaseComponents";
 import { getApplicantColumns } from "./columns";
 import type { IMarketingReviewPopModalViewProps } from "../type";

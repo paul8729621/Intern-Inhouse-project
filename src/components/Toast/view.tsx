@@ -1,4 +1,3 @@
-import React from "react";
 import type { ToastItem } from "./type";
 import styles from "./style.module.scss";
 
