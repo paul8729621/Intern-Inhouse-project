@@ -21,7 +21,7 @@ export function getVisitColumns({
   onClickReject,
   onClickApprove,
   onClickRejectDetail,
-}: Partial<VisitColumnsParams> = []) {
+}: Partial<VisitColumnsParams> = {}) {
   return [
     { key: "name",  header: "신청자",  size: 90 },
     { key: "phone", header: "전화번호", size: 120 },
